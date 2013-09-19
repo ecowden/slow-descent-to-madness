@@ -2,6 +2,15 @@ Recording Gear
 ==============
 _Almost everything is DIY or previously used._
 
+Too Long; Didn't Read
+---------------------
+We can record 32 channels at once, mainly limited by mics and stands.
+
+We have 
+ - 16 discreet, transformer balanced outboard preamps
+ - 32 Console preamps
+ - 18 mics (though I wouldn't use the three Heil Handi Mics unless we're desperate)
+
 Microphones
 -----------
 **Condensers**
