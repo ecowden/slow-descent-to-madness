@@ -1,4 +1,6 @@
-slow-decent-to-madness
-======================
+# A Slow Descent to Madness
 
-Recording notes and whatnot
+## Table of Contents
+[Recording Gear](gear.md)
+[Velveteen](velveteen.md)
+
