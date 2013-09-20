@@ -1,4 +1,4 @@
-# Velveteen Session Plan
+# Velveteen
 
 ## About the Song
 
