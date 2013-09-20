@@ -18,7 +18,6 @@ into the drum mics.
 
 We'll do a dry run Monday, September 30th, splitting the time between drums/bass and overdubs. The goal will
 be to try out the recording process and arrangement, creating a draft that we can send to David for review.
-We want to get good performances, but our goal is not to get absolute perfect performances.
 
 Depending on feedback, we can use our two nights the following week to get real tracks, splitting the nights
 between drums/bass and overdubs as necessary, fixing any issues the previous session uncovers and focusing 
