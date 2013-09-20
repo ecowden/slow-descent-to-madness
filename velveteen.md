@@ -40,7 +40,7 @@ on performance.
 
 ### Bass
 
-_I'll start by recording Bass DI simulaneously with the drums. Especially with Velveteen, it feels important
+_We'll start by recording bass DI simulaneously with the drums. Especially with Velveteen, it feels important
 to get a good take with drums and bass locked together._
 
 _We can optionally re-record bass with a DI and mic'd cab later, but I feel that we need the cab muted when recording 
@@ -61,5 +61,4 @@ drums to avoid bleed._
 ### Lead Guitar
 
  - **Near**. Heil PR30 into JLM Dual 99V.
- - **Far**. I'm open to suggestions. Mono or stereo? Are there any specific qualities you'd like me to try
-    and pick up?
+ - **Far**. I'm open to suggestions, same as above.
