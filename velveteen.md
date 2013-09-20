@@ -12,7 +12,7 @@ it's a total failure, but it's still a fun song.
 
 ## Recording Plan
 
-First, record drums and bass DI alone. Next, overdub guitars and vocals separately. (Groundbreaking, right?)
+First, record drums and bass DI. Next, overdub guitars and vocals separately. (Groundbreaking, right?)
 This is a departure from our original plan of recording everyone simultanesouly so that we can reduce bleed
 into the drum mics.
 
