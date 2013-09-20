@@ -56,6 +56,7 @@ _Everything else aside, I'm actually pretty impressed with it. There's a lot of 
 ### Amps
 - [Budda SD18](http://www.budda.com/gear/gear.cfm?series=618) and [matching 2x12 cabinet](http://www.budda.com/gear/gear.cfm?series=505) (Kurt, Rhythm Guiter)
 - [Egnater Tweaker 88](http://egnateramps.com/EgnaterProducts/Tweaker/Tweaker88/Tweaker88.html) and [matching 2x12 cabinet](http://egnateramps.com/EgnaterProducts/Tweaker/TweakerCabinets/Tweaker212x.html) (Connor, Lead guitar)
+- [Gallien-Krueger Fusion 550](http://www.gallien-krueger.com/products/fusion-550/) and [Neo 2x12 cabinet](http://www.gallien-krueger.com/products/cabinets/) (Evan, Bass)
 
 ### Instruments
 - Gibson SG (Kurt, Rhythm guitar)
