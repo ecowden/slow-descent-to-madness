@@ -26,7 +26,7 @@ on performance.
 ### Drums
 
  - **Overheads**. Spaced pair of Gefell UMT 70s into JLM 1290. _I'm positioning them higher than on
-    _Out of Mind_ and also setting the pick up pattern to figure-eight, 'cause I'm kinda digging the extra
+    Out of Mind and also switching the pickup pattern to figure-eight, 'cause I'm kinda digging the extra
     bit of ambiance in an otherwise dry room. You're welcome to tell me that they sound terrible._
  - **Snare Top**. Heil PR30 into ClassicAPI VP26.
  - **Snare Bottom**. Heil PR28 into ClassicAPI VP26.
