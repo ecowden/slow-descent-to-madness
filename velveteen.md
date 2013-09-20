@@ -1,4 +1,4 @@
-# Velveteen
+# Velveteen Session Plan
 
 ## About the Song
 
@@ -10,7 +10,7 @@ dancy of our songs. I was going for something that wasn't based on guitars. In t
 it's a total failure, but it's still a fun song.
 ```
 
-## Recording Plan:
+## Recording Plan
 
 First, record drums and bass DI alone. Next, overdub guitars and vocals separately. (Groundbreaking, right?)
 This is a departure from our original plan of recording everyone simultanesouly so that we can reduce bleed
