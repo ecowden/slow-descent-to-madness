@@ -1,6 +1,4 @@
 # A Slow Descent to Madness
 
-## Table of Contents
- - [Recording Gear](gear.md)
- - [Velveteen](velveteen.md)
+Use the links above to navigate to the appropriate files.
 
